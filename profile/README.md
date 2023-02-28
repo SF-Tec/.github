@@ -10,12 +10,11 @@
 -->
 
 
+SFTec is a technology-based startup founded in 2020 in the Canary Islands as a provider of testing, inspection and evaluation technologies.
 
-Survey and Foresee Technologies is a technology-based startup founded in 2020 in the Canary Islands (Spain) as an independent provider of innovative assessment technologies.
+SFTec adds real value to your processes by providing digital solutions for material integrity assessment, allowing to evaluate data with reliability management systems throughout the material lifecycle (from the initial processes of selection and characterization of the material to installation, production and operational requirements) and integrating the data into your entire value chain.
 
-Focused initially on the coatings inspection industry, SFTec emerged to transform the sector by creating and delivering innovative and effective digital solutions to coatings problems and engineering challenges that reduce costs, extend asset life and improve asset quality.
-
-Nowadays, the SFTec team consists of chemists, chemical engineers, physicists, and NACE CIP 2 inspectors who, in combination with a Full-Stack development team, provide innovative and tailor-made solutions to digitize inspection processes and a results analysis workflows.
+The real value of NDT digitalization lies in its ability to improve quality control, increase efficiency, enhance data analysis, improve safety, enable better decision making, offer increased flexibility, result in cost savings, and enable remote testing.
 
 💻 https://sftec.es
 
